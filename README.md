@@ -1,5 +1,5 @@
 # Python: Loops Classwork
-
+4/4 correct. Score:5 points
 ### Exercise 1:
 Print -20 to and including 50. Use any loop you want.
 
